@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "threat model sample",
+    "owner": "James, Marc, Alfred"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "milestone1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
