@@ -573,6 +573,11 @@
           "height": 644.750244140625,
           "width": 1796.1690673828125
         }
+      },
+      {
+        "title": "milestone1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
